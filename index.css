@@ -1,0 +1,45 @@
+/* Header started */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+#navbar{
+    background-color: black;
+    height: 60px;
+    color: white;
+
+}
+
+a{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+#logo{
+    font-size: 20px;
+    color: orange;
+}
+#searchbutton{
+    background-color: orange;
+}
+        /* header is done here */
+        /* Main content */
+.box{
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2.5px;
+    display: inline-block;
+    margin: 50px;
+    padding: 50px;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+}
+#content{
+    height: 500px;
+}
